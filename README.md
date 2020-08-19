@@ -104,10 +104,10 @@ As seguintes tecnologias/ferramentas foram utilizadas:
 #->No terminal:
 
 # Clonar repositório:
-$ git clone https://github.com/abner-starkasty/Proffy-Javascript
+$ git clone https://github.com/guicamara/proffy.git
 
 # Entrar no diretório do projeto:
--> $ cd proffy-javascript
+-> $ cd proffy
 
 # Instalar dependências
 $ npm install
